@@ -1,0 +1,17 @@
+{
+  "name": "testingpkgs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tony",
+  "license": "ISC",
+  "dependencies": {
+    "crunchyholymonkey": "^1.0.0",
+    "krazymonkey45": "^1.0.0",
+    "landmammalpunch": "^1.0.0"
+  }
+}
